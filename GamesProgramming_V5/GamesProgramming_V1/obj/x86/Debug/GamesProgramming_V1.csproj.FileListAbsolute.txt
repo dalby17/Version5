@@ -1,0 +1,272 @@
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V1\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Thumbs.db
+C:\Users\Matty\Documents\Games Computing\Third Year\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Thumbs.db
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Flag.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V2\GamesProgramming_V1\bin\Windows\Debug\Content\Coin.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Thumbs.db
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Coin.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Flag.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Mainmenu.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxexit.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxplay.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Timerfont.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V3\GamesProgramming_V1\bin\Windows\Debug\Content\Scorefont.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Thumbs.db
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Coin.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Flag.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Mainmenu.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxexit.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxplay.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Scorefont.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Timerfont.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Coin.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Flag.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Mainmenu.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxexit.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxplay.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Scorefont.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Timerfont.xnb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Coin.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Flag.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Mainmenu.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxexit.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxplay.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Scorefont.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\Content\Timerfont.xnb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Version4game-final-master\GamesProgramming_V4\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Images\Background.jpg
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Bike1.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Coin.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Flag.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Mainmenu.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxexit.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\MenuBoxplay.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\platform.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Scorefont.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\Content\Timerfont.xnb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.exe
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\GamesProgramming_V1.pdb
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matty\Documents\Games Computing\Resits\GamesProgramming_V5\GamesProgramming_V1\obj\x86\Debug\GamesProgramming_V1.csprojResolveAssemblyReference.cache
